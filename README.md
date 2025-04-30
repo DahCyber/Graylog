@@ -53,7 +53,7 @@ This project highlights my experience using **Graylog** to manage, filter, and v
 
 | Graylog Dashboard | Severity Pipeline Rule | Vulnerability Logs |
 |-------------------|------------------------|---------------------|
-| ![dashboard](screenshots/graylog_dashboard.png) | ![rule](screenshots/graylog_pipeline_rule.png) | ![logs](screenshots/graylog_vuln_logs.png) |
+| ![dashboard](screenshots/graylog_dashboard.png) | ![rule](screenshots/pipeline_rule.png) | ![logs](screenshots/graylog_vuln_logs.png) |
 
 ---
 
